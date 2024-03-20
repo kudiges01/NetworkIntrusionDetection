@@ -53,7 +53,7 @@ Use other techniques such as Neural networks
 
 #### Outline of project
 
-- Notebook location - https://github.com/kudiges01/intrusiondetection/blob/main/Intrusion_Detect.ipynb
+- Notebook location - https://github.com/kudiges01/NetworkIntrusionDetection/blob/main/Intrusion_Detect.ipynb
 
 ##### Contact and Further Information
 
