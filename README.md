@@ -30,10 +30,15 @@ What data will you use to answer you question?
 What methods are you using to answer the question?
 
    Naive Bayes - BernoulliNB
+   
    Decision Tree Classifier
+   
    Random Forest Classifier
+   
    XGB Classifier
+   
    Bagging Classifier
+   
    AdaBoostClassifier
 
 #### Results
