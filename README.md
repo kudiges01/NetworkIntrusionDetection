@@ -1,5 +1,5 @@
 ### NetworkIntrusionDetection
-Application of machine learning techniques to determine intrusion detectionin networks
+Application of machine learning techniques to determine intrusion detection in networks
 
 **Author**
 Sid Kudige
