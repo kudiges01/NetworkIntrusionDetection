@@ -41,19 +41,24 @@ What methods are you using to answer the question?
    
    AdaBoostClassifier
 
+   Neural Networks
+
 #### Results
 What did your research find?
 
-BaggingClassifier, Random Forest Classifier and XGB Classifier are the best performing classifiers and they can detect intrusions and anamolies with over 99.5% accuracy.
+BaggingClassifier, Random Forest Classifier and XGB Classifier perform very well and they can detect intrusions and anamolies with over 99.5% accuracy.
+
+The Neural network Keras model also performs well and it can detect intrusions and anomalies with 97.9% accuracy. 
 
 #### Next steps
 What suggestions do you have for next steps?
 
-Use other techniques such as Neural networks
+These AI/ML models must be scaled and deployed at a large scale using massive compute on the public cloud so that they can be used to detect intrusions on a real time basis on network traffic. This will help organizations respond immediately to cyber threats.
 
 #### Outline of project
 
-- Notebook location - https://github.com/kudiges01/NetworkIntrusionDetection/blob/main/Intrusion_Detect.ipynb
+- Notebook location for the classifiers - https://github.com/kudiges01/NetworkIntrusionDetection/blob/main/Intrusion_Detect.ipynb
+- Notebook location for the Neural network - https://github.com/kudiges01/NetworkIntrusionDetection/blob/main/Intrusion_Detect_Keras.ipynb
 
 ##### Contact and Further Information
 
