@@ -61,4 +61,4 @@ These AI/ML models must be scaled and deployed at a large scale using massive co
 - Notebook location for the Neural network - https://github.com/kudiges01/NetworkIntrusionDetection/blob/main/Intrusion_Detect_Keras.ipynb
 
 ##### Contact and Further Information
-
+Sid Kudige 
