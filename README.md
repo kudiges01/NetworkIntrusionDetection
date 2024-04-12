@@ -8,7 +8,7 @@ Sid Kudige
 
 - Billions in losses every year in organizations due to Cyberattacks
 - Intrusion Detection is critically important to prevent Cyberattacks
-- Commercially available IDS can detect many attacks but may miss some attacks 
+- Commercially available rule based Intrusion Detection Systems (IDS) can detect many attacks but may miss some attacks 
 - A machine learning approach to intrusion detection using classification can be a cost effective technique for organizations in classifying network traffic as safe and not safe
 
 #### Rationale
