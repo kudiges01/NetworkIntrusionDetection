@@ -1,4 +1,4 @@
-### NetworkIntrusionDetection
+### Network Intrusion Detection
 Application of machine learning techniques to determine intrusion detection in networks
 
 **Author**
@@ -29,6 +29,8 @@ What data will you use to answer you question?
 #### Methodology
 What methods are you using to answer the question?
 
+The following Machine Learning classification models will be used to classify network traffic as "Safe" or "Not safe"
+
    Naive Bayes - BernoulliNB
    
    Decision Tree Classifier
@@ -41,7 +43,7 @@ What methods are you using to answer the question?
    
    AdaBoostClassifier
 
-   Neural Networks
+   Neural Networks - Keras Sequential Classifier
 
 #### Results
 What did your research find?
