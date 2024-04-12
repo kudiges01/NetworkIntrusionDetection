@@ -50,6 +50,8 @@ BaggingClassifier, Random Forest Classifier and XGB Classifier perform very well
 
 The Neural network Keras model also performs well and it can detect intrusions and anomalies with 97.9% accuracy. 
 
+This demonstrates the viablity of using machine learning models to detect intrusions in networks on a very large scale. These same machine learning models can also be used on real time network traffic to detect intrusion in a time sensitive manner so that organizations can be protected instantly from malicious actors using network instrusion attacks.
+
 #### Next steps
 What suggestions do you have for next steps?
 
