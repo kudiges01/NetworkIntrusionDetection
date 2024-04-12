@@ -31,33 +31,34 @@ What methods are you using to answer the question?
 
 The following Machine Learning classification models will be used to classify network traffic as "Safe" or "Not safe"
 
-   Naive Bayes - BernoulliNB
+   - Naive Bayes - BernoulliNB
    
-   Decision Tree Classifier
+   - Decision Tree Classifier
    
-   Random Forest Classifier
+   - Random Forest Classifier
    
-   XGB Classifier
+   - XGB Classifier
    
-   Bagging Classifier
+   - Bagging Classifier
    
-   AdaBoostClassifier
+   - AdaBoostClassifier
 
-   Neural Networks - Keras Sequential Classifier
+   - Neural Networks (Keras Sequential Classifier)
 
 #### Results
 What did your research find?
 
-BaggingClassifier, Random Forest Classifier and XGB Classifier perform very well and they can detect intrusions and anamolies with over 99.5% accuracy.
+- BaggingClassifier, Random Forest Classifier and XGB Classifier perform very well and they can detect intrusions and anamolies with over 99.5% accuracy.
 
-The Neural network Keras model also performs well and it can detect intrusions and anomalies with 97.9% accuracy. 
+- The Neural network Keras model also performs well and it can detect intrusions and anomalies with 97.9% accuracy. 
 
-This demonstrates the viablity of using machine learning models to detect intrusions in networks on a very large scale. These same machine learning models can also be used on real time network traffic to detect intrusion in a time sensitive manner so that organizations can be protected instantly from malicious actors using network instrusion attacks.
+- This demonstrates the viablity of using machine learning models to detect intrusions in networks on a very large scale. These same machine learning models can also be used on real time network traffic to detect intrusion in a time sensitive manner so that organizations can be protected instantly from malicious actors using network instrusion attacks.
 
 #### Next steps
 What suggestions do you have for next steps?
 
-These AI/ML models must be scaled and deployed at a large scale using massive compute on the public cloud so that they can be used to detect intrusions on a real time basis on network traffic. This will help organizations respond immediately to cyber threats.
+- These AI/ML models must be scaled and deployed at a large scale using massive compute on the public cloud so that they can be used to detect intrusions on a real time basis on network traffic. This will help 
+  organizations respond immediately to cyber threats.
 
 #### Outline of project
 
